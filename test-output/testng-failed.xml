@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Blazedemo]">
+  <listeners>
+    <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+    <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+    <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+  </listeners>
+  <test name="Regression Test(failed)">
+    <classes>
+      <class name="execute_Blazedemo.BlazedemoExecute">
+        <methods>
+          <include name="runScripts"/>
+        </methods>
+      </class> <!-- execute_Blazedemo.BlazedemoExecute -->
+    </classes>
+  </test> <!-- Regression Test(failed) -->
+</suite> <!-- Failed suite [Blazedemo] -->

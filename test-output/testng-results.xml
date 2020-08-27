@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+    <line>
+      <![CDATA[STEP2]]>
+    </line>
+    <line>
+      <![CDATA[STEP3]]>
+    </line>
+    <line>
+      <![CDATA[STEP4]]>
+    </line>
+    <line>
+      <![CDATA[STEP5]]>
+    </line>
+    <line>
+      <![CDATA[STEP6]]>
+    </line>
+    <line>
+      <![CDATA[STEP7]]>
+    </line>
+    <line>
+      <![CDATA[STEP8]]>
+    </line>
+    <line>
+      <![CDATA[STEP9]]>
+    </line>
+    <line>
+      <![CDATA[STEP10]]>
+    </line>
+    <line>
+      <![CDATA[STEP11]]>
+    </line>
+    <line>
+      <![CDATA[STEP12]]>
+    </line>
+    <line>
+      <![CDATA[STEP13]]>
+    </line>
+    <line>
+      <![CDATA[STEP14]]>
+    </line>
+    <line>
+      <![CDATA[STEP15]]>
+    </line>
+    <line>
+      <![CDATA[STEP16]]>
+    </line>
+    <line>
+      <![CDATA[STEP17]]>
+    </line>
+    <line>
+      <![CDATA[STEP18]]>
+    </line>
+  </reporter-output>
+  <suite name="Blazedemo" duration-ms="31140" started-at="2020-08-27T16:03:45Z" finished-at="2020-08-27T16:04:16Z">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="31140" started-at="2020-08-27T16:03:45Z" finished-at="2020-08-27T16:04:16Z">
+      <class name="execute_Blazedemo.BlazedemoExecute">
+        <test-method status="PASS" signature="runScripts()[pri:0, instance:execute_Blazedemo.BlazedemoExecute@18486a3]" name="runScripts" duration-ms="31128" started-at="2020-08-27T21:33:45Z" finished-at="2020-08-27T21:34:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+            <line>
+              <![CDATA[STEP2]]>
+            </line>
+            <line>
+              <![CDATA[STEP3]]>
+            </line>
+            <line>
+              <![CDATA[STEP4]]>
+            </line>
+            <line>
+              <![CDATA[STEP5]]>
+            </line>
+            <line>
+              <![CDATA[STEP6]]>
+            </line>
+            <line>
+              <![CDATA[STEP7]]>
+            </line>
+            <line>
+              <![CDATA[STEP8]]>
+            </line>
+            <line>
+              <![CDATA[STEP9]]>
+            </line>
+            <line>
+              <![CDATA[STEP10]]>
+            </line>
+            <line>
+              <![CDATA[STEP11]]>
+            </line>
+            <line>
+              <![CDATA[STEP12]]>
+            </line>
+            <line>
+              <![CDATA[STEP13]]>
+            </line>
+            <line>
+              <![CDATA[STEP14]]>
+            </line>
+            <line>
+              <![CDATA[STEP15]]>
+            </line>
+            <line>
+              <![CDATA[STEP16]]>
+            </line>
+            <line>
+              <![CDATA[STEP17]]>
+            </line>
+            <line>
+              <![CDATA[STEP18]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScripts -->
+      </class> <!-- execute_Blazedemo.BlazedemoExecute -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Blazedemo -->
+</testng-results>

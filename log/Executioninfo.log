@@ -1,0 +1,172 @@
+27-08-2020 21:33:46  INFO CallWrapperUsingValLine:59 - URL Launcing: Check whether the system launched the given URL in mentioned browser  test case started
+27-08-2020 21:33:46  INFO CallWrapperUsingValLine:76 - 1: 'launchBrowser' wrapper in use
+27-08-2020 21:33:46  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:33:46  INFO CallWrapperUsingValLine:84 - 'http://blazedemo.com' locator value is retrieved
+27-08-2020 21:33:46  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:76 - 2: 'clickByXpath' wrapper in use
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:84 - '/html/body/div[3]/form/select[1]' locator value is retrieved
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:59 - Step_01:  test case started
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:76 - 3: 'selectVisibleTextByXpath' wrapper in use
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:84 - '/html/body/div[3]/form/select[1]' locator value is retrieved
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:93 - 'Boston' data for processing
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:76 - 4: 'clickByXpath' wrapper in use
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:84 - '/html/body/div[3]/form/select[2]' locator value is retrieved
+27-08-2020 21:34:03  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:59 - Step_02:  test case started
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:76 - 5: 'selectVisibleTextByXpath' wrapper in use
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:84 - '/html/body/div[3]/form/select[2]' locator value is retrieved
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:93 - 'Rome' data for processing
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:59 - Step_03:  test case started
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:76 - 6: 'clickByXpath' wrapper in use
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:84 - '/html/body/div[3]/form/div/input' locator value is retrieved
+27-08-2020 21:34:04  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:59 - Step_04:  test case started
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:76 - 7: 'clickByXpath' wrapper in use
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:84 - '/html/body/div[2]/table/tbody/tr[3]/td[1]/input' locator value is retrieved
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:76 - 8: 'clickByXpath' wrapper in use
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:84 - '//*[@id="inputName"]' locator value is retrieved
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:76 - 9: 'clearTextByXpath' wrapper in use
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:07  INFO CallWrapperUsingValLine:84 - '//*[@id="inputName"]' locator value is retrieved
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:59 - Step_05:  test case started
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:76 - 10: 'enterTextByXpath' wrapper in use
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:84 - '//*[@id="inputName"]' locator value is retrieved
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:93 - 'Mohan' data for processing
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:76 - 11: 'clickByXpath' wrapper in use
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:84 - '//*[@id="address"]' locator value is retrieved
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:76 - 12: 'clearTextByXpath' wrapper in use
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:08  INFO CallWrapperUsingValLine:84 - '//*[@id="address"]' locator value is retrieved
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:59 - Step_06:  test case started
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:76 - 13: 'enterTextByXpath' wrapper in use
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:84 - '//*[@id="address"]' locator value is retrieved
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:93 - 'Boston' data for processing
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:76 - 14: 'clickByXpath' wrapper in use
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:84 - '//*[@id="city"]' locator value is retrieved
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:76 - 15: 'clearTextByXpath' wrapper in use
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:84 - '//*[@id="city"]' locator value is retrieved
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:59 - Step_07:  test case started
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:76 - 16: 'enterTextByXpath' wrapper in use
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:84 - '//*[@id="city"]' locator value is retrieved
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:93 - 'Boston' data for processing
+27-08-2020 21:34:09  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:76 - 17: 'clickByXpath' wrapper in use
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:84 - '//*[@id="state"]' locator value is retrieved
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:76 - 18: 'clearTextByXpath' wrapper in use
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:84 - '//*[@id="state"]' locator value is retrieved
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:59 - Step_08:  test case started
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:76 - 19: 'enterTextByXpath' wrapper in use
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:84 - '//*[@id="state"]' locator value is retrieved
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:93 - 'Boston' data for processing
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:76 - 20: 'clickByXpath' wrapper in use
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:84 - '//*[@id="zipCode"]' locator value is retrieved
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:76 - 21: 'clearTextByXpath' wrapper in use
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:10  INFO CallWrapperUsingValLine:84 - '//*[@id="zipCode"]' locator value is retrieved
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:59 - Step_09:  test case started
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:76 - 22: 'enterTextByXpath' wrapper in use
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:84 - '//*[@id="zipCode"]' locator value is retrieved
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:93 - '123456' data for processing
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:76 - 23: 'clickByXpath' wrapper in use
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:84 - '//*[@id="cardType"]' locator value is retrieved
+27-08-2020 21:34:11  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:59 - Step_10:  test case started
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:76 - 24: 'selectVisibleTextByXpath' wrapper in use
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:84 - '//*[@id="cardType"]' locator value is retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:93 - 'American Express' data for processing
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:76 - 25: 'clickByXpath' wrapper in use
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:84 - '//*[@id="creditCardNumber"]' locator value is retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:76 - 26: 'clearTextByXpath' wrapper in use
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:84 - '//*[@id="creditCardNumber"]' locator value is retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:59 - Step_11:  test case started
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:76 - 27: 'enterTextByXpath' wrapper in use
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:84 - '//*[@id="creditCardNumber"]' locator value is retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:93 - '4321234575345753' data for processing
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:76 - 28: 'clickByXpath' wrapper in use
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:84 - '//*[@id="creditCardMonth"]' locator value is retrieved
+27-08-2020 21:34:12  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:76 - 29: 'clearTextByXpath' wrapper in use
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:84 - '//*[@id="creditCardMonth"]' locator value is retrieved
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:59 - Step_12:  test case started
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:76 - 30: 'enterTextByXpath' wrapper in use
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:84 - '//*[@id="creditCardMonth"]' locator value is retrieved
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:93 - '12' data for processing
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:76 - 31: 'clickByXpath' wrapper in use
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:84 - '//*[@id="creditCardYear"]' locator value is retrieved
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:76 - 32: 'clearTextByXpath' wrapper in use
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:13  INFO CallWrapperUsingValLine:84 - '//*[@id="creditCardYear"]' locator value is retrieved
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:59 - Step_13:  test case started
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:76 - 33: 'enterTextByXpath' wrapper in use
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:84 - '//*[@id="creditCardYear"]' locator value is retrieved
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:93 - '2024' data for processing
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:95 - '' value for processing
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:76 - 34: 'clickByXpath' wrapper in use
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:84 - '//*[@id="nameOnCard"]' locator value is retrieved
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:76 - 35: 'clearTextByXpath' wrapper in use
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:84 - '//*[@id="nameOnCard"]' locator value is retrieved
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:59 - Step_14:  test case started
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:76 - 36: 'enterTextByXpath' wrapper in use
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:84 - '//*[@id="nameOnCard"]' locator value is retrieved
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:93 - 'Mohan' data for processing
+27-08-2020 21:34:14  INFO CallWrapperUsingValLine:148 - 2 Argument method /locator,data/
+27-08-2020 21:34:15  INFO CallWrapperUsingValLine:59 - Step_15:  test case started
+27-08-2020 21:34:15  INFO CallWrapperUsingValLine:76 - 37: 'clickByXpath' wrapper in use
+27-08-2020 21:34:15  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:15  INFO CallWrapperUsingValLine:84 - '/html/body/div[2]/form/div[11]/div/input' locator value is retrieved
+27-08-2020 21:34:15  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/
+27-08-2020 21:34:16  INFO CallWrapperUsingValLine:76 - 38: 'respval' wrapper in use
+27-08-2020 21:34:16  INFO CallWrapperUsingValLine:82 - 'Blazedemo' Page property file will be retrieved
+27-08-2020 21:34:16  INFO CallWrapperUsingValLine:84 - '/html/body/div[2]/div/h1' locator value is retrieved
+27-08-2020 21:34:16  INFO CallWrapperUsingValLine:122 - 1 Argument method /locator/

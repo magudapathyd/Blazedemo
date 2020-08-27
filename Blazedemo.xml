@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Blazedemo">
+  <test name="Regression Test">
+   <listeners>
+      <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+      <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+      <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+    </listeners>  
+    <classes>
+      <class name="execute_Blazedemo.BlazedemoExecute"/>
+    </classes>
+  </test> <!-- Regression Test -->
+</suite> 
